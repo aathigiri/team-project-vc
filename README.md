@@ -1,10 +1,11 @@
-# team-project-vc
+## Version Control Workflow
 
-## Frontend Module
-Handles UI and client-side logic.
+1. Created separate branches: frontend, backend, database.
+2. Each module was developed independently.
+3. Changes were committed and pushed to GitHub.
+4. Pull Requests were created for each branch.
+5. Merge conflicts occurred in README.md.
+6. Conflicts were resolved manually.
+7. All branches were merged into main after review.
 
-## Backend Module
-Handles business logic and APIs.
-
-## Database Module
-Handles schema design, tables, and data storage.
+Tools Used: Git, GitHub
