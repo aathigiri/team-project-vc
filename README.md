@@ -1,7 +1,7 @@
 # team-project-vc
-team-project-vc
-
 
 ## Frontend Module
-- UI Design
-- Login Page
+Details about frontend...
+
+## Backend Module
+Details about backend...
