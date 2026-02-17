@@ -1,6 +1,7 @@
 # team-project-vc
-team-project-vc
+
+## Frontend Module
+Details about frontend...
 
 ## Backend Module
-- API Development
-- Authentication
+Details about backend...
