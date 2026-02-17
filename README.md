@@ -1,7 +1,10 @@
 # team-project-vc
 
 ## Frontend Module
-Details about frontend...
+Handles UI and client-side logic.
 
 ## Backend Module
-Details about backend...
+Handles business logic and APIs.
+
+## Database Module
+Handles schema design, tables, and data storage.
